@@ -205,3 +205,14 @@ The test suite in `test-runner.js` systematically verifies all 10 formal scenari
 8. **Reset Clue Preservation:** Verified — deep cloning protects original clues.
 9. **`isSafe` Correctness:** Verified — individual constraint checks tested.
 10. **Device Responsiveness:** Verified — single screen fit on desktop, smooth scaling on mobile.
+11. ## Student Information
+
+- **Student Name:** Neeraj Sharma
+- **UID:** 26MCI10177
+- **Course:** MCA (AI & ML)
+- **University:** Chandigarh University
+- **Subject:** Design and Analysis of Algorithms (DAA)
+
+## Project Repository
+
+https://github.com/nks98287962-ship-it/sudoku-solver-DAA
